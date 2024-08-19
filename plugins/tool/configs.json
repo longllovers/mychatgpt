@@ -1,0 +1,15 @@
+{
+  "tools": [
+    "url-get",
+    "meteoa",
+    "bing-search",
+    "morning-news"
+  ],
+  "kwargs": {
+    "debug": true,
+    "no_default": false,
+    "model_name": "gpt-3.5-turbo",
+    "bing_subscription_key": "4871f273a4804743",
+    "morning_news_api_key": "5w1kjNh9VQlUc"
+  }
+}
